@@ -1,0 +1,138 @@
+.home_container{
+   
+   margin: 50px;
+}
+
+.searchContainer{
+    width: '100%';
+}
+
+.addUser{
+    border: 1px solid #f0f0f0;
+    background-color: #f0f0f0;
+    width:200px;
+    margin-block: 20px;
+    border-color: #f0f0f0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#0000c2;
+    
+    font-size: 20px;
+
+ 
+
+}
+.text{
+    font-size: 16px;
+    font-weight: bold;  
+    color:#3d3d3d;  
+}
+.text1{
+    font-size: 20px;
+    font-weight: bold;  
+    color:#3d3d3d;  
+}
+
+
+.addUser:hover {
+    background: #ffffff;
+    border-color: #ffffff !important;
+    transition: all 0.4s ease 0s;
+    font-size: 25px;
+    }
+
+.buttonSave{
+    background-color: blue;
+}
+
+.tools1{
+    border: 1px solid #3d3dff;
+    background-color: #3d3dff;
+    padding-top:6px;
+    padding-bottom: 9px;
+    padding-inline: 12px;
+    margin-right: 10px;
+    border-radius: 5px;
+    color:#f0f0f0;
+}
+
+.tools1:hover {
+    background: #ffffff;
+    border-color: #3d3dff !important;
+    transition: all 0.4s ease 0s;
+    color:#3d3dff; 
+
+}
+.tools2{
+    border: 1px solid #f0ad4e;
+    background-color: #f0ad4e;
+    padding-top:6px;
+    padding-bottom: 9px;
+    padding-inline: 12px;
+    margin-right: 10px;
+    border-radius: 5px;
+    color:#f0f0f0;
+}
+
+.tools2:hover {
+    background: #ffffff;
+    border-color: #f0ad4e !important;
+    transition: all 0.4s ease 0s;
+    color:#f0ad4e; 
+
+}
+.tools3{
+    border: 1px solid #d9534f;
+    background-color: #d9534f;
+    padding-top:6px;
+    padding-bottom: 9px;
+    padding-inline: 12px;
+    margin-right: 10px;
+    border-radius: 5px;
+    color:#f0f0f0;
+}
+
+.tools3:hover {
+    background: #ffffff;
+    border-color: #d9534f !important;
+    transition: all 0.4s ease 0s;
+    color:#d9534f; 
+
+}
+
+.searchButton{
+  
+}
+
+.searchBox{
+    border: 1px solid hsl(0, 0%, 94%);
+    border-color: #f0f0f0;
+    background-color: #ffffff;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 2px;
+    
+}
+
+.searchIcon{
+   
+    color:#3d3d3d; 
+    opacity:0.7;
+    margin-right: 10px;
+    
+
+}
+
+.searchIcon:hover{
+    opacity:1
+}
+
+.positionTop{
+    position: absolute;
+    right:20px;
+    top: 20px;
+
+    
+}
